@@ -8,7 +8,5 @@ baseurl: ""
 title: TBZmang
 description: Hello life. Goodbye life.
 language: zh
-avatar: C:\Documents and Settings\Administrator\桌面\icon.jpg
-favicon: C:\Documents and Settings\Administrator\桌面\icon.jpg
 
 theme: jekyll-theme-hacker
